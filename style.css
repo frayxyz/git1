@@ -4,3 +4,8 @@ body{
 h1{
 	color: #fff;
 }
+form{
+	border:  1px solid black;
+	width: 50%;
+	margin: auto;
+}
