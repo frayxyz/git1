@@ -2,7 +2,11 @@ body{
 	background: blue;
 }
 h1{
-	color: #fff;
+	color: red;
+	font-size: 3vw;
+	text-transform: capitalize;
+	text-shadow: 2px black;
+
 }
 form{
 	border:  1px solid black;
